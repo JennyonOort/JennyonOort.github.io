@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "Introduce Myself to the World"
 ---
 
-About this site
+About Myself
+
+My favorite foods are steak, tapa, dumplings, and salmon.
+I like to ski, swim, and scuba diving in my free time.
+I learned to properly read and tidy data across various data files in both R and Python ahead of data analysis.

@@ -1,7 +1,9 @@
 ---
-title: "Hello DSCI 521: smile or you're doing it wrong"
+title: "Hello DSCI 521: Smile or You're Doing it Wrong"
 ---
 
 This is a Quarto website.
+
+This is a new change on the home page for lab 2.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

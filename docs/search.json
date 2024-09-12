@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello DSCI 521: smile or you’re doing it wrong",
+    "title": "Hello DSCI 521: Smile or You’re Doing it Wrong",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nThis is a new change on the home page for lab 2.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Introduce Myself to the World",
     "section": "",
-    "text": "About this site"
+    "text": "About Myself\nMy favorite foods are steak, tapa, dumplings, and salmon. I like to ski, swim, and scuba diving in my free time. I learned to properly read and tidy data across various data files in both R and Python ahead of data analysis."
   }
 ]

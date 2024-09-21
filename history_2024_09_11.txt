@@ -1,0 +1,947 @@
+    1  mds-help
+    2  jupyter lab
+    3  code ~/.bash_profile
+    4  code ~/.bash_profile
+    5  code ~/.bash_profile
+    6  code ~/.bashrc
+    7  code ~/.bashrc
+    8  code ~/.bash_profile
+    9  /etc/skel/.bashrc
+   10  R
+   11  jupter lab
+   12  jupyterlab
+   13  jupyter lab
+   14  python --version
+   15  jupyter lab
+   16  whoami
+   17  pwd
+   18  ls
+   19  ls -F
+   20  ls -a
+   21  cd Desktop
+   22  cd Home
+   23  ls
+   24  cd ..
+   25  cd Download
+   26  cd Downloads
+   27  ls
+   28  cd ..
+   29  mkdir 521_folder
+   30  cd Desktop
+   31  ls
+   32  pwd
+   33  mkdir 521_folder
+   34  rm --help
+   35  cd 521_folder
+   36  pwd
+   37  cd /
+   38  cd home
+   39  cd Home
+   40  pwd
+   41  cd Users
+   42  cd c/
+   43  cd ..
+   44  cd /c/Users/86166
+   45  cd 521_folder
+   46  cd /Desktop/521_folder
+   47  cd Desktop
+   48  pwd
+   49  cd 521_folder
+   50  cd ..
+   51  cd ..
+   52  cd Desktop/521_folder
+   53  cd ..
+   54  cd ..
+   55  cd -
+   56  cd -
+   57  cd -
+   58  code newfile.txt
+   59  cd 521_folder
+   60  code newfile.txt
+   61  history
+   62  jupyter lab
+   63  cd C:\Users\86166\Downloads\DSCI_521_lab0a_yuci21st-instructor-updates\DSCI_521_lab0a_yuci21st-instructor-updates
+   64  ls
+   65  pwd
+   66  cd c/Users/86166/Downloads/DSCI_521_lab0a_yuci21st-instructor-updates
+   67  cd Downloads/DSCI_521_lab0a_yuci21st-instructor-updates
+   68  latex --version
+   69  cd Downloads/DSCI_521_lab0b_yuci21st-instructor-updates
+   70  ls
+   71  ls
+   72  cd DSCI_521_lab0b_yuci21st-instructor-updates/
+   73  ls
+   74  quarto render lab0b.Rmd
+   75  quarto render --help
+   76  quarto render lab0b.Rmd --to pdf
+   77  quarto render lab0b.Rmd --to html
+   78  jupyter lab
+   79  bash --version
+   80  git --version
+   81  git config --global user.name "Yuci Zhang"
+   82  git config --global user.email yucizhang2008@gmail.com
+   83  git config --list --global
+   84  code ~/.bash_profile
+   85  git config --global core.editor "code --wait"
+   86  code ~/.bashrc
+   87  python --version
+   88  conda --version
+   89  code "/c/Program Files/Git/etc/profile.d/git-prompt.sh"
+   90  conda install pandas jupyterlab=4 jupyterlab-git jupyterlab-spellchecker jupytext
+   91  pip install otter-grader
+   92  jupyter lab
+   93  code ~/.bash_profile
+   94  R --version
+   95  jupyter lab
+   96  jupyter lab
+   97  quarto --verison
+   98  quarto --version
+   99  latex --version
+  100  latex --version
+  101  tlmgr.bat install eurosym   adjustbox   caption   collectbox   enumitem   environ   fp   jknapltx   parskip   pdfcol   pgf   rsfs   soul   tcolorbox   titling   trimspaces   ucs   ulem   upquote   lwarp   oberdiek
+  102  jupyter lab
+  103  pip install "nbconvert[webpdf]"
+  104  playwright install chromium
+  105  jupyter lab
+  106  code ~/.bash_profile
+  107  make --versin
+  108  make --version
+  109  docker run hello-world
+  110  docker run hello-world
+  111  docker run hello-world
+  112  docker run hello-world
+  113  docker run hello-world
+  114  docker run hello-world
+  115  docker run hello-world
+  116  docker: error during connect: in the default daemon configuration on Windows, the docker client must be run with elevated privileges to connect: Head "http://%2F%2F.%2Fpipe%2Fdocker_engine/_ping": open //./pipe/docker_engine: The system cannot find the file specified.
+  117  See 'docker run --help'
+  118  docker run hello-world
+  119  Unable to find image 'hello-world:latest' locally
+  120  docker: Error response from daemon: Head "https://registry-1.docker.io/v2/library/hello-world/manifests/latest": unauthorized: incorrect username or password.
+  121  See 'docker run --help'.
+  122  docker run hello-world
+  123  curl -Sso ~/.mds-help.sh https://raw.githubusercontent.com/UBC-MDS/UBC-MDS.github.io/master/resources_pages/mds-help.sh
+  124  mds-help
+  125  playwright install chromium
+  126  pip install "nbconvert[webpdf]"
+  127  playwright install chromium
+  128  code ~/.bash_profile
+  129  pip install "nbconvert[webpdf]"
+  130  playwright install chromium
+  131  jupyter alb
+  132  jupyter lab
+  133  docker login
+  134  docker run hello-world
+  135  pwd
+  136  cd Desktop
+  137  cd Block1/DSCI521
+  138  cd Block_1/DSCI521
+  139  cd DSCI_521_lab0a_yuci21st
+  140  jupyter lab
+  141  pwd
+  142  cd Desktop/Block_1/DSCI_521_platforms/DSCI_521_lab1_yuci21st-master
+  143  jupyter
+  144  cd
+  145  ls
+  146  cd Desktop
+  147  cd
+  148  cd Desktop
+  149  cd ~
+  150  cd Desktop
+  151  ls ..
+  152  cd ..
+  153  ls
+  154  cd Desktop
+  155  ls
+  156  ls ..
+  157  cd
+  158  pwd
+  159  cd /c
+  160  cd
+  161  cd Desktop/Block_1
+  162  cd /c/Users/86166
+  163  cd Desktop/Block_1
+  164  cd /Users/86166
+  165  cd 
+  166  pwd
+  167  cd Desktop/Block_1
+  168  cd ~
+  169  jupyter lab
+  170  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_worksheet1_yuci21st-master
+  171  jupyter lab
+  172  cd
+  173  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_py-prog_students-master
+  174  conda install openpyxl
+  175  jupyter lab
+  176  cd
+  177  cd Desktop/Block_1/DSCI_523_r-prog/DSCI_523_r-prog_students-master
+  178  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_py-prog_students-master
+  179  jupyter lab
+  180  cd /
+  181  cd DSCI_511_worksheet1_yuci21st-master
+  182  jupyter lab
+  183  pwd
+  184  cd Desktop/Block_1/DSCI_551_stat-prob/DSCI_551_lab1_yuci21st-master
+  185  cd
+  186  cd Desktop/Block_1
+  187  git clone <https://github.ubc.ca/mds-2024-25/DSCI_551_lab1_yuci21st.git>
+  188  git clone <https://github.ubc.ca/mds-2024-25/DSCI_551_lab1_yuci21st.git>
+  189  git clone <"https://github.ubc.ca/mds-2024-25/DSCI_551_lab1_yuci21st.git">
+  190  git clone "https://github.ubc.ca/mds-2024-25/DSCI_551_lab1_yuci21st.git"
+  191  git clone "https://github.ubc.ca/mds-2024-25/DSCI_551_lab1_yuci21st.git"
+  192  cd DSCI_551_lab1_yuci21st
+  193  git add lab1.Rmd lab1.pdf
+  194  git commit -m 'lab test procedure'
+  195  git push
+  196  quarto render worksheet1.Rmd --to pdf
+  197  quarto render worksheet1.Rmd --to pdf
+  198  quarto render worksheet1.Rmd --to pdf
+  199  cd
+  200  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_py-prog_students-master
+  201  jupyter lab
+  202  cd .
+  203  cd ..
+  204  git clone "https://github.ubc.ca/mds-2024-25/DSCI_511_lab1_yuci21st.git"
+  205  cd DSCI_511_lab1_yuci21st
+  206  jupyter lab
+  207  git add lab1.ipynb lab1.pdf
+  208  git commit -m 'project start test'
+  209  git push
+  210  cd
+  211  cd Desktop/Block_1/DSCI_511_py-prog
+  212  git clone 'https://github.ubc.ca/mds-2024-25/DSCI_511_worksheet1_yuci21st.git'
+  213  cd DSCI_511_worksheet1_yuci21st
+  214  jupyter lab
+  215  git add worksheet1.ipynb worksheet1.pdf
+  216  git commit -m 'finished'
+  217  git push
+  218  jupyter lab
+  219  git add worksheet1.ipynb worksheet1.pdf
+  220  git commit -m 'finished and edited'
+  221  git push
+  222  cd
+  223  cd Desktop/Block_1/DSCI_511_py-prog
+  224  cd DSCI_511_lab1_yuci21st
+  225  conda install altair
+  226  jupyter lab
+  227  git add lab1.ipynb lab1.pdf
+  228  git commit -m 'challenge question yet finished'
+  229  git push
+  230  cd
+  231  pandoc --version
+  232  pandoc --version
+  233  ssh-keygen -t ed25519 -C "yucizhang2008@gmail.com"
+  234  code .ssh/config
+  235  cat .ssh/id_ed25519.pub
+  236  cd Desktop
+  237  git clone https://github.com/JennyonOort/2024-09-04-git.git
+  238  ls -a
+  239  cd 2024-09-04-git
+  240  ls -a
+  241  cd ..
+  242  cd 2024-09-04-git
+  243  code README.md
+  244  ls
+  245  code README.md
+  246  git status
+  247  git add README.md
+  248  git status
+  249  git commit
+  250  git status
+  251  code README.md
+  252  git status
+  253  git add README.md
+  254  git commit -m 'define status, add, and commit'
+  255  git log
+  256  git push origin main
+  257  git pull
+  258  cat README.md
+  259  cd
+  260  cd Desktop/Block_1
+  261  git clone https://github.ubc.ca/mds-2024-25/DSCI_523_lab1_yuci21st.git
+  262  ls -a
+  263  cd DSCI_523_lab1_yuci21st
+  264  git status
+  265  ls -a
+  266  quarto render lab1.Rmd --to pdf
+  267  cd Desktop/Block_1
+  268  cd DSCI_511_py-prog/DSCI_511_worksheet1_yuci21st
+  269  git add .gitignore lab1.Rmd lab1.pdf
+  270  git commit -m 'edited gitignore, finished Q6'
+  271  git push origin master
+  272  git status
+  273  jupyter lab
+  274  git add worksheet.ipynb worksheet1.pdf
+  275  git add worksheet1.ipynb worksheet1.pdf
+  276  git commit -m 'tried export PDF using a different alternative'
+  277  git push
+  278  git push origin master
+  279  cd ..
+  280  cd DSCI_511_lab1_yuci21st
+  281  ls
+  282  cd ..
+  283  cd DSCI_511_worksheet1_yuci21st
+  284  ls
+  285  git status
+  286  ls -a
+  287  cd ..
+  288  cd DSCI_511_lab1_yuci21st
+  289  ls -a
+  290  cd Desktop/Block_1
+  291  cd DSCI_511_py-prog/DSCI_511_lab1_yuci21st
+  292  ls -a
+  293  git status
+  294  git add lab1.pdf lab1.ipynb 
+  295  git commit -m 'updated PDF'
+  296  git push origin master
+  297  git log
+  298  cd ..
+  299  cd ..
+  300  cd DSCI_521_platforms
+  301  git clone https://github.ubc.ca/mds-2024-25/DSCI_521_lab1_yuci21st.git
+  302  cd DSCI_521_lab1_yuci21st
+  303  git status
+  304  ls -a
+  305  jupyter lab
+  306  jupyter lab
+  307  cd Desktop/Block_1/DSCI_521_platforms
+  308  cd /
+  309  cd Desktop
+  310  cd /
+  311  pwd
+  312  cd -
+  313  pwd
+  314  cd /
+  315  pwd
+  316  cd -
+  317  cd Desktop/Block_1/DSCI_521_platforms
+  318  ls
+  319  cd DSCI_521_lab1_yuci21st
+  320  git status
+  321  ls -a
+  322  cd Desktop/Block_1
+  323  ls
+  324  cd DSCI_523_lab1_yuci21st
+  325  git add lab1.Rmd lab1.pdf
+  326  git commit -m 'edited for reading Kelowna dataset'
+  327  git push
+  328  git log
+  329  cat .ssh/id_ed25519.pub | clip
+  330  ssh -T git@github.ubc.ca
+  331  ssh -T git@github.ubc.ca
+  332  1
+  333  ssh -T git@github.ubc.ca
+  334  git remote -v
+  335  cd Desktop/Block_1/DSCI_521_platforms
+  336  ls -a
+  337  cd DSCI_521_lab1_yuci21st
+  338  ls -a
+  339  git remote -v
+  340  cd Desktop/Block_1
+  341  git clone git@github.ubc.ca:mds-2024-25/DSCI_521_lab1_yuci21st.git
+  342  git remote -v
+  343  cd DSCI_521_lab1_yuci21st
+  344  git remote -v
+  345  cd Desktop/Block_1
+  346  pwd
+  347  cd /
+  348  pwd
+  349  cd c
+  350  pwd
+  351  cd /Users/86166
+  352  cd Users/86166
+  353  git add lab1.ipynb lab1.pdf
+  354  git add lab1.ipynb lab1.pdf
+  355  git add lab1.ipynb lab1.pdf
+  356  git commit -m 'finished first trial, have question for 2.6 & 3.7 & export as pdf'
+  357  git push
+  358  jupyter lab
+  359  git log
+  360  cd Desktop/Block_1/DSCI_551_stat-prob
+  361  cd DSCI_551_lab1_yuci21st-master
+  362  ls -a
+  363  cd Desktop/Block_1
+  364  cd DSCI_551_stat-prob
+  365  cd DSCI_551_lab1_yuci21st
+  366  ls -a
+  367  git status
+  368  git add lab1.Rmd lab1.pdf
+  369  git commit -m 'finished Q7, image not yet uploaded, calculation not coded'
+  370  git push
+  371  git log
+  372  cd 
+  373  playwright install chromium
+  374  chromium --version
+  375  playwright --version
+  376  jupyter lab
+  377  cd Desktop/Block_1/DSCI_511_py-prog
+  378  git clone git@github.ubc.ca:mds-2024-25/DSCI_511_worksheet2_yuci21st.git
+  379  cd DSCI_511_worksheet2_yuci21st
+  380  pandoc --version
+  381  cd Desktop/Block_1/DSCI_521_platforms
+  382  cd DSCI_521_lab1_yuci21st
+  383  jupyter lab
+  384  cd Desktop/Block_1/DSCI_523_r-prog
+  385  git clone git@github.ubc.ca:mds-2024-25/DSCI_523_worksheet2_yuci21st.git
+  386  cd DSCI_523_worksheet2_yuci21st
+  387  git status
+  388  ls -a
+  389  git add worksheet2.Rmd worksheet2.pdf
+  390  git commit -'tests all passed trial 1'
+  391  git commit -m 'tests all passed trial 1'
+  392  git push
+  393  jupyter lab
+  394  cd ..
+  395  cd ..
+  396  cd DSCI_511_py-prog
+  397  cd DSCI_511_py-prog_students-master
+  398  cd Lecture/DSCI_511_py_students-master
+  399  cd Desktop/Block_1/DSCI_521_platforms
+  400  ls
+  401  DSCI_521_lab0a_yuci21st
+  402  cd DSCI_521_lab0a_yuci21st
+  403  ls -a
+  404  cd ..
+  405  git clone git@github.ubc.ca:mds-2024-25/DSCI_521_lab0a_yuci21st.git
+  406  git clone git@github.ubc.ca:mds-2024-25/DSCI_521_lab0a_yuci21st.git
+  407  cd DSCI_521_lab0a_yuci21st
+  408  git log
+  409  git add lab1.ipynb lab1.pdf
+  410  git add lab0a.ipynb lab0a.pdf
+  411  git commit -m 'trial 1'
+  412  git push
+  413  git log
+  414  jupyter lab
+  415  git add lab1.ipynb lab1.pdf
+  416  git add lab0a.ipynb lab0a.pdf
+  417  git commit -m 'trial 2: tried alternative coding approach, updated pdf'
+  418  git push
+  419  git log
+  420  cd
+  421  cd Desktop/Block_1/DSCI_521_platforms
+  422  git clone git@github.ubc.ca:mds-2024-25/DSCI_521_lab0b_yuci21st.git
+  423  cd DSCI_521_lab0b_yuci21st
+  424  jupyter lab
+  425  cd ..
+  426  git clone git@github.ubc.ca:mds-2024-25/DSCI_523_r-prog_students.git
+  427  cd DSCI_523_r-prog_students
+  428  git add lab0b.Rmd lab0b.pdf
+  429  git commit -m 'trial 1'
+  430  git push
+  431  git log
+  432  cd ..
+  433  code .ssh/config
+  434  cd DSCI_521_platforms
+  435  cd DSCI_521_lab0a_yuci21st
+  436  git checkout master
+  437  git log
+  438  git merge instructor-updates
+  439  git log
+  440  cd ..
+  441  cd DSCI_521_lab0b_yuci21st
+  442  git checkout master
+  443  git merge instructo-updates
+  444  git merge instructor-updates
+  445  git log
+  446  cd Desktop/Block_1/DSCI_511_py-prog
+  447  cd DSCI_511_lab1_yuci21st
+  448  git status
+  449  ls -a
+  450  cd Desktop/Block_1/DSCI_511_py-prog
+  451  cd DSCI_511_worksheet2_yuci21st
+  452  jupyter lab
+  453  cd ..
+  454  cd DSCI_511_lab1_yuci21st
+  455  git add lab1.ipynb lab1.pdf
+  456  jupyter lab
+  457  git add lab1.ipynb lab1.pdf
+  458  cd Desktop/Block_1/DSCI_511_py-prog
+  459  cd DSCI_511_lab1_yuci21st
+  460  git add lab1.ipynb lab1.pdf
+  461  git commit -m 'Edited exercise 2 & 3 dataset indexing and .loc command use'
+  462  git push
+  463  git log
+  464  cd ..
+  465  cd DSCI_511_worksheet1_yuci21st
+  466  git add worksheet1.ipynb worksheet1.pdf
+  467  git commit -m 'for record and finished'
+  468  git push
+  469  cd ..
+  470  cd DSCI_511_worksheet2_yuci21st
+  471  git add worksheet2.ipynb worksheet2.pdf
+  472  git commit -m 'finished and tests passed'
+  473  git log
+  474  git push
+  475  cd 
+  476  cd Desktop/Block_1/DSCI_523_r-prog
+  477  cd DSCI_523_worksheet1_yuci21st
+  478  cd ..
+  479  cd 
+  480  cd Desktop/Block_1/DSCI_511_py-prog
+  481  cd DSCI_511_lab1_yuci21st
+  482  jupyter lab
+  483  git add lab1.ipynb lab1.pdf
+  484  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_lab1_yuci21st
+  485  git add lab1.ipynb lab1.pdf
+  486  git commit -m 'finished challenging question, to be final checked'
+  487  git push
+  488  git log
+  489  cd ..
+  490  cd ..
+  491  cd DSCI_523_r-prog
+  492  cd DSCI_523_worksheet1_yuci21st
+  493  git clone git@github.ubc.ca:mds-2024-25/DSCI_523_worksheet1_yuci21st.git
+  494  cd DSCI_523_worksheet1_yuci21st
+  495  git add worksheet1.Rmd worksheet1.pdf
+  496  git commit -m 'worksheet finished and for record'
+  497  git push
+  498  git log
+  499  cd ..
+  500  git clone git@github.ubc.ca:mds-2024-25/DSCI_511_worksheet2_yuci21st.git
+  501  cd DSCI_523_worksheet2_yuci21st
+  502  git clone git@github.ubc.ca:mds-2024-25/DSCI_523_worksheet2_yuci21st.git
+  503  cd DSCI_523_worksheet2_yuci21st
+  504  ls -a
+  505  cd ..
+  506  cd ..
+  507  DSCI_523_worksheet2_yuci21st
+  508  cd DSCI_523_worksheet2_yuci21st
+  509  ls -a
+  510  ls -a
+  511  cd Desktop/Block_1/DSCI_521_platforms
+  512  ls
+  513  cd DSCI_521_lab0a_yuci21st
+  514  git add lab0a.ipynb lab0a.pdf
+  515  git commit -m 'first trial after merging to master branch'
+  516  git push
+  517  cd Desktop/Block_1/DSCI_521_py-prog
+  518  cd Desktop/Block_1/DSCI_521_platforms/DSCI_521_lab0a_yuci21st
+  519  git add lab1.ipynb lab1.pdf
+  520  git add lab0a.ipynb lab0a.pdf
+  521  git commit -m 'adding new comment, commit trial 2 after changing branch'
+  522  git push
+  523  jupyter lab
+  524  cd ..
+  525  cd DSCI_521_lab0b_yuci21st
+  526  git add lab0b.Rmd lab0b.pdf 
+  527  git commit -m 'trial 1
+  528  '
+  529  git add lab0b.Rmd lab0b.pdf
+  530  git commit -m 'trial 2, added comment as explanation'
+  531  git add lab0b.Rmd lab0b.pdf
+  532  cd Desktop/Block_1/DSCI_521_platforms/DSCI_521_lab0b_yuci21st
+  533  git status
+  534  git commit -m 'trial 3, final comment added and doc checked'
+  535  git push
+  536  cd ..
+  537  cd ..
+  538  cd DSCI_551_stat-prob
+  539  cd DSCI_551_lab1_yuci21st
+  540  ls -a
+  541  git status
+  542  git log
+  543  git add lab1.Rmd lab1.pdf
+  544  git commit -m 'challenge question 8 attempted, photos yet added'
+  545  git push
+  546  git add lab1.Rmd lab1.pdf
+  547  git commit -m 'images attached, need final check and 8.10 resolution'
+  548  git push
+  549  git add lab1.Rmd lab1.pdf
+  550  git commit -m '8.10 resolved, images updated, final check done'
+  551  git push
+  552  git add lab1.Rmd lab1.pdf
+  553  git commit -m 'minor formatting fixes and final check'
+  554  git push
+  555  git status
+  556  git log
+  557  cd ..
+  558  cd ..
+  559  cd DSCI_521_platforms/DSCI_521_lab1_yuci21st
+  560  ls -a
+  561  cd Desktop/Block_1
+  562  pwd
+  563  quarto render lab1.ipynb --to pdf
+  564  git push lab1.ipynb lab1.pdf
+  565  git commit -m 'commit 2: added url and tried to fix ssh picture issue'
+  566  git push
+  567  cd Desktop/Block_1/DSCI_521_platforms/DSCI_521_lab1_yuci21st
+  568  git add lab1.ipynb lab1.pdf
+  569  git commit -m 'git commit 2: added url and tried ssh image fix'
+  570  git push
+  571  git add lab1.ipynb lab1.pdf
+  572  git commit -m 'git commit 3: added commentary and minor formatting fixes, need final git log'
+  573  git push
+  574  git log
+  575  git add lab1.ipynb lab1.pdf
+  576  git commit -m 'git commit 4: git log added'
+  577  git push
+  578  jupyter lab
+  579  cd ../..
+  580  cd DSCI_551_stat-prob/DSCI_551_lab1_yuci21st
+  581  git add lab1.Rmd lab1.pdf
+  582  git commit -m 'fixed repo url and final check'
+  583  git push
+  584  cd ../..
+  585  cd DSCI_511_py-prog/DSCI_511_lab1_yuci21st
+  586  cd Desktop/Block_1/DSCI_511_platforms/DSCI_511_lab1_yuci21st
+  587  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_lab1_yuci21st
+  588  git add lab1.ipynb lab1.pdf
+  589  git commit 'q7 (challenging) result table updated, final run through'
+  590  git commit -m 'q7 (challenging) result table updated, final run through'
+  591  git push
+  592  cd ../..
+  593  jupyter lab
+  594  cd DSCI_523_r-prog/DSCI_523_lab1_yuci21st
+  595  git add lab1.Rmd lab1.pdf
+  596  git commit -m 'finished challenging question, minor formatting fixes'
+  597  git push
+  598  cd ..
+  599  cd ..
+  600  cd DSCI_551_stat-prob/DSCI_551_lab1_yuci21st
+  601  git add lab1.Rmd lab1.pdf
+  602  git commit -m 'q4 challenging updated to be clearer, answer previously correct'
+  603  git push
+  604  cd Desktop/Block_1/DSCI_551_stat-prob/DSCI_551_lab1_yuci21st
+  605  git add lab1.Rmd
+  606  git commit -m 'lab1 reupload check
+  607  '
+  608  git push
+  609  cd ../cc
+  610  cd ../.
+  611  cd ..
+  612  cd DSCI_511_py-prog/DSCI_511_lab1_yuci21st
+  613  cd ../..
+  614  cd DSCI_511_py-prog/DSCI_511_lab1_yuci21st
+  615  git add lab1.ipynb lab1.pdf
+  616  git commit -m 'formatting check'
+  617  git push
+  618  jupyter lab
+  619  cd ../..
+  620  cd DSCI_521_platforms/DSCI_521_lab1_yuci21st
+  621  cd ../..
+  622  cd DSCI_521_platforms/DSCI_521_lab1_yuci21st
+  623  git add lab1.ipynb lab1.pdf
+  624  git commit -m 'minor word edits'
+  625  git push
+  626  jupyter lab
+  627  cd ../..
+  628  cd DSCI_551_stat-prob/DSCI_551_lab1_yuci21st
+  629  git add lab1.Rmd lab1.pdf
+  630  git commit -m 'minor text edits'
+  631  git push
+  632  cd 
+  633  cd Desktop/Materials/DSCI_551_stat-prob
+  634  git clone git@github.ubc.ca:mds-2024-25/DSCI_551_stat-prob-dsci_students.git
+  635  cd DSCI_551_stat-prob-dsci_students
+  636  jupyter lab
+  637  cd 
+  638  cd Downloads
+  639  jupyter lab
+  640  cd
+  641  cd Desktop/Materials/DSCI_523_r-prog
+  642  cd Desktop/Block_1/DSCI_523_r-prog/Lecture/DSCI_523_r-prog_students
+  643  ls -a
+  644  cd
+  645  cd Desktop/Materials/DSCI_523_r-prog/DSCI_523_r-prog_students
+  646  ls -a
+  647  cd ../..
+  648  cd ..
+  649  cd Block_1/DSCI_521_platforms
+  650  git clone git@github.ubc.ca:mds-2024-25/DSCI_521_lab2_yuci21st.git
+  651  cd DSCI_521_lab2_yuci21st
+  652  git status
+  653  ls -a
+  654  cd ../..
+  655  cd DSCI_523_r-prog_students
+  656  ls -a
+  657  cd ..
+  658  cd Materials/DSCI_521_platforms
+  659  git clone git@github.ubc.ca:mds-2024-25/DSCI_521_platforms-dsci_students.git
+  660  cd DSCI_521_platforms-dsci_students.git
+  661  cd DSCI_521_platforms-dsci_students
+  662  ls -a
+  663  cd ../..
+  664  cd DSCI_511_py-prog
+  665  cd Old
+  666  ls -a
+  667  cd ..
+  668  git clone git@github.ubc.ca:mds-2024-25/DSCI_511_py-prog_students.git
+  669  cd DSCI_511_py-prog_students
+  670  ls -a
+  671  git status
+  672  cd ../..
+  673   cd General
+  674  git clone
+  675  git clone git@github.ubc.ca:mds-2024-25/orientation.git
+  676  cd mds-2024-25/orientation
+  677  cd orientation
+  678  ls -a
+  679  cd Desktop/Block_1/DSCI_521_platforms/DSCI_521_lab2_yuci21st
+  680  cd Desktop/Block_1/DSCI_521_platforms/DSCI_521_lab2_yuci21st
+  681  git add README.md
+  682  git commit -m 'commit 1: list your favorite foods'
+  683  git add README.md
+  684  git commit -m 'commit 2: list what you like to do in your free time'
+  685  git add README.md
+  686  git commit -m 'list one thing you learned in any of your MDS classes so far'
+  687  git push
+  688  git log --help
+  689  git log --oneline -p
+  690  git log --oneline
+  691  git log --oneline -p
+  692  git log -p
+  693  git log --pretty=oneline -p
+  694  git log --help
+  695  git log --oneline -p
+  696  git log --oneline
+  697  git diff --help
+  698  git diff --help
+  699  cd 
+  700  cd Desktop/Materials/DSCI_521_platforms
+  701  mk dir 2024-09-09-git
+  702  cd 2024-09-09-git
+  703  mkdir 2024-09-09-git
+  704  ls
+  705  cd 2024-09-09-git
+  706  git status
+  707  ls -a
+  708  git init
+  709  ls -a
+  710  code README.md
+  711  git status
+  712  git commit -m 'add README.md'
+  713  git add README.md
+  714  git commit -m 'add README.md'
+  715  git status
+  716  git remote add origin https://github.com/JennyonOort/2024-09-09-git.git
+  717  git remote -v origin
+  718  git remote -v origin Dhttps://github.com/JennyonOort/2024-09-09-git.git
+  719  git branch -M main
+  720  git push -u origin main
+  721  git push origin main
+  722  git add README.md
+  723  git commit -m 'define remote add'
+  724  git log
+  725  git diff README.md
+  726  cd Desktop/Materials/DSCI_521_platforms/2024-09-09-git
+  727  git add README.md
+  728  git status
+  729  git log
+  730  cd Desktop/Materials/DSCI_521_platforms/2024-09-09-git
+  731  git status
+  732  git commit -m 'define git diff, git restore function'
+  733  git push
+  734  git add README.md
+  735  git commit -m 'instructor define restore and log'
+  736  git push origin main
+  737  git add README.md
+  738  git commit -m 'formatting edits'
+  739  git push
+  740  git pull
+  741  git add README.md
+  742  git commit -m 'edit first line locally'
+  743  git add -m 'add guide to fix conflicts'
+  744  git add README.md
+  745  git commit -m 'add guide to fix conflicts'
+  746  git push
+  747  git add README.md
+  748  cd Desktop/Materials/DSCI_521_platforms/2024-09-09-git
+  749  git add README.md
+  750  git commit -m 'add .gitignore function overview'
+  751  git push
+  752  cd Desktop/Block_1/DSCI_511_py-prog
+  753  git clone git@github.ubc.ca:mds-2024-25/DSCI_511_lab2_yuci21st.git
+  754  cd DSCI_511_lab2_yuci21st
+  755  git status
+  756  ls -a
+  757  cd ../..
+  758  cd DSCI_523_r-prog
+  759  git clone git@github.ubc.ca:mds-2024-25/DSCI_523_lab2_yuci21st.git
+  760  cd DSCI_523_lab2_yuci21st
+  761  ls -a
+  762  cd ../..
+  763  cd DSCI_551_stat-prob
+  764  git clone git@github.ubc.ca:mds-2024-25/DSCI_551_lab2_yuci21st.git
+  765  cd DSCI_551_lab2_yuci21st
+  766  ls -a
+  767  cd ..
+  768  cd ..
+  769  cd DSCI_551_stat-prob/DSCI_551_lab2_yuci21st
+  770  cd ../..
+  771  cd DSCI_511_py-prog
+  772  git clone git@github.ubc.ca:mds-2024-25/DSCI_511_worksheet3_yuci21st.git
+  773  cd DSCI_511_worksheet3_yuci21st
+  774  ls -a
+  775  cd ../..
+  776  cd DSCI_523_r-prog
+  777  git clone git@github.ubc.ca:mds-2024-25/DSCI_523_worksheet3_yuci21st.git
+  778  cd DSCI_523_worksheet3_yuci21st
+  779  ls -a
+  780  cd ../..
+  781  cd DSCI_521_platforms/DSCI_521_lab2_yuci21st
+  782  git log
+  783  cd Desktop/Block_1/DSCI_521_platforms/DSCI_521_lab2_yuci21st
+  784  jupyter lab
+  785  cd ..
+  786  cd DSCI_521_lab2_yuci21st
+  787  git log --oneline -p
+  788  ls -a
+  789  cd ~/.config/git
+  790  ls -a
+  791  cd .config/git
+  792  cd .config
+  793  cd ~/.config
+  794  cd ~
+  795  cd .config
+  796  cd Desktop/Block_1/DSCI_521_platforms/DSCI_521_lab2_yuci21st
+  797  code ~/.config/git/ignore
+  798  git status
+  799  git add README.md
+  800  git commit -m 'turn into regular prose'
+  801  git push
+  802  git pull
+  803  git add README.md
+  804  git commit -m 'merged two files'
+  805  git push
+  806  jupyter lab
+  807  git log --oneline -p
+  808  cd ../..
+  809  cd DSCI_523_r-prog/DSCI_523_lab2_yuci21st
+  810  cd ../..
+  811  cd DSCI_511_platforms/DSCI_511_worksheet3_yuci21st
+  812  cd DSCI_511_py-prog/DSCI_511_worksheet3_yuci21st
+  813  cd Desktop/Materials/DSCI_511_py-prog/DSCI_511_py-prog_students
+  814  git pull
+  815  jupyter lab
+  816  jupyter lab
+  817  jupyter lab
+  818  git add worksheet3.ipynb worksheet3.pdf
+  819  git commit -m 'worksheet completed and commit for record'
+  820  git push
+  821  cd ../..
+  822  cd DSCI_523_r-prog/DSCI_523_worksheet3_yuci21st
+  823  git add worksheet3.Rmd worksheet3.pdf
+  824  git commit -m 'worksheet 3 completed and commit for record'
+  825  git push
+  826  cd ../..
+  827  cd DSCI_511_py-prog/DSCI_511_lab2_yuci21st
+  828  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_lab2_yuci21st
+  829  cd
+  830  pip install palmerpenguins
+  831  pip install nycflights13
+  832  pip install datetime
+  833  jupyter lab
+  834  cd ../..
+  835  cd Desktop/Materials/DSCI_511_py-prog/
+  836  cd ..
+  837  cd Materials/DSCI_511_py-prog
+  838  cd DSCI_511_py-prog_students
+  839  cd Deskop/Materials/DSCI_523_r-prog
+  840  cdcd Desktop
+  841  cd Desktop
+  842  cd Materials
+  843  cd DSCI_523_r-prog
+  844  cd DSCI_r-prog_students
+  845  cd DSCI_523_r-prog_students
+  846  git pull
+  847  git pull
+  848  cd ../../..
+  849  cd Block_1/DSCI_511_py-prog/DSCI_511_lab2_yuci21st
+  850  jupyter lab
+  851  cd ../..
+  852  cd ..
+  853  cd Block_1/DSCI_551_stat-prob/DSCI_551_lab2_yuci21st
+  854  jupyter lab
+  855  git add lab2.Rmd lab2.pdf
+  856  cd Desktop/Block_1/DSCI_551_stat-prob/DSCI_551_lab2_yuci21st
+  857  git add lab2.Rmd lab2.pdf
+  858  git commit -m 'v1: q2,4,5 finished; q3,6 to be completed'
+  859  git push
+  860  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_lab2_yuci21st
+  861  cd ../..
+  862  cd DSCI_511_py-prog/DSCI_511_lab2_yuci21st
+  863  git add lab2.ipynb customer_purchase_behavior.csv
+  864  git add lab2.ipynb data/customer_purchase_behavior.csv
+  865  git status
+  866  git commit -m 'v1: finished q1, 2, 3; to complete rest'
+  867  git push
+  868  git add lab2.ipynb lab2.pdf 
+  869  git commit -m 'v2: progress q5, challenging q6 to be completed'
+  870  git push
+  871  cd ../..
+  872  cd DSCI_551_stat-prob/DSCI_551_lab2_yuci21st
+  873  git add lab2.Rmd lab2.pdf
+  874  cd Desktop/Block_1/DSCI_551_stat-prob/DSCI_551_lab2_yuci21st
+  875  git add lab2.Rmd lab2.pdf
+  876  git status
+  877  git commit -m 'v2: q5 edited'
+  878  git push
+  879  jupyter lab
+  880  cd Desktop/Block_1/DSCI_511_py-prog/DSCI_511_worksheet4_yuci21st
+  881  cd Desktop/Block_1/DSCI_511_py-prog
+  882  git clone git@github.ubc.ca:mds-2024-25/DSCI_511_worksheet4_yuci21st.git
+  883  cd DSCI_511_worksheet4_yuci21st
+  884  cd Desktop/Block_1/DSCI_523_r-prog/DSCI_523_lab2_yuci21st
+  885  git add lab2.ipynb lab2.pdf
+  886  git add lab2.Rmd lab2.pdf
+  887  git status
+  888  git commit -m 'v1: q1,2,3,5 finished; q4, 6 (challenge) to be completed'
+  889  git push
+  890  git add lab2.Rmd lab2.pdf data/customer_purchase_behavior.csv
+  891  git commit -m 'v2: add data file for q3 and updated q3; q4,6 remains to be completed'
+  892  git status
+  893  git push
+  894  cd Desktop/Materials/DSCI_521_platforms
+  895  cd clone git@github.com:JennyonOort/JennyonOort.github.io.git
+  896  git clone git@github.com:JennyonOort/JennyonOort.github.io.git
+  897  cd JennyonOort.github.io
+  898  git status
+  899  ls -a
+  900  cd ..
+  901  git clone git@github.com:JennyonOort/jennyonoort.github.io.git
+  902  git status
+  903  cd jennyonoort.github.io
+  904  git status
+  905  ls -a
+  906  which quarto
+  907  which python
+  908  which jupyter
+  909  quarto
+  910  quarto --version
+  911  python --version
+  912  quarto create --help
+  913  cd Desktop/Materials/DSCI_521_platforms
+  914  ls
+  915  cd jennyonoort.github.io
+  916  quarto create project
+  917  ls
+  918  pwd
+  919  code .
+  920  git status
+  921  git add .
+  922  git status
+  923  git commit -m 'create quarto website'
+  924  git push origin main
+  925  quarto render
+  926  git add .
+  927  git commit -m 'render to the docs folder'
+  928  git push origin main
+  929  quarto render
+  930  git add .
+  931  git commit -m 'render to docs folder trial 3'
+  932  git push origin main
+  933  git add .
+  934  git status
+  935  git commit -m 'delete incorrect .docs folder'
+  936  git push origin main
+  937  git add .
+  938  git status
+  939  git commit -m 'delete _site folder as output is directed to docs folder'
+  940  git push origin main
+  941  quarto render
+  942  git status
+  943  git add .
+  944  git commit -m 'make changes per instruction of lab 2'
+  945  git push origin main
+  946  history
+  947  history > history_2024_09_11.txt
